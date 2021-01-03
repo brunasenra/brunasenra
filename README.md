@@ -34,6 +34,14 @@ Rossmann store managers are tasked with predicting their daily sales for up to s
 Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 
 <br>
+
+### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
+
+Through data analysis, the locations with the highest crime rate in the 4 groups are presented: agencies, universities, cities and countys.
+
+Project repo: https://github.com/brunasenra/California-Crime-Compendium
+
+<br>
 ---
 
 # Tools
