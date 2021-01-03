@@ -1,4 +1,4 @@
-# I'm Bruna Senra Faria.
+# Hello! I'm Bruna Senra Faria.
 
 I graduated in Physics from the Universidade do Estado do Rio de Janeiro (UERJ) in 2019. Currently work at the Olimpíada Brasileira de Astronomia e Astronáutica (OBA), where I coordinate a project that serves around 30 thousand people per year, manage a team of 20 interns and train new teams and teach courses and lectures in the area. I have 9 years of experience with data collection and processing, budget projects, accountability etc.
 
