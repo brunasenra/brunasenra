@@ -89,19 +89,31 @@ Project repo: https://github.com/brunasenra/California-Crime-Compendium
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
       <td width="25%" align="center">
-        <span>Plotly</span><br><br>
-        <img height="64px" src="https://blog.f1000.com/wp-content/uploads/2017/07/logo.png">
+        <span>Apache Spark</span><br><br>
+        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
       <td width="25%" align="center">
+        <span>Power BI</span><br><br>
+        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+      </td>
+      <td width="25%" align="center">
+        <span>Tableau</span><br><br>
+        <img height="47px" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+    <td width="25%" align="center">
         <span>Flask</span><br><br>
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
       <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+      <td width="25%" align="center">
         <span>XGBoost</span><br><br>
-        <img height="47px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png">
       </td>
     </tr>
   </tbody>
 </table>
-
-
