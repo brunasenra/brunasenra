@@ -96,11 +96,6 @@ Project repo: https://github.com/brunasenra/California-Crime-Compendium
         <span>statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Apache Spark</span><br><br>
-        <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
-      </td>
-    </tr>
     <tr valign="top">
     <td width="25%" align="center">
         <span>Flask</span><br><br>
