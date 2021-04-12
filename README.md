@@ -35,6 +35,14 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 
 <br>
 
+### [Cardiovascular Cath Disease](https://github.com/brunasenra/Cardiovascular-Cath-Disease)
+
+The diagnosis of Cadio Catch Diseases company need to create a tool that increases the accuracy of the diagnosis and that this accuracy is stable for all diagnoses.
+
+Project repo: https://github.com/brunasenra/Cardiovascular-Cath-Disease
+
+<br>
+
 ### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
 
 Through data analysis, the locations with the highest crime rate in the 4 groups are presented: agencies, universities, cities and countys.
