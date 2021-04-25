@@ -35,11 +35,11 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 
 <br>
 
-### [Cardiovascular Cath Disease](https://github.com/brunasenra/Cardiovascular-Cath-Disease)
+### [Cardiovascular Disease Detection](https://github.com/brunasenra/Cardiovascular-Disease-Detection)
 
 The diagnosis of Cadio Catch Diseases company need to create a tool that increases the accuracy of the diagnosis and that this accuracy is stable for all diagnoses.
 
-Project repo: https://github.com/brunasenra/Cardiovascular-Cath-Disease
+Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
 
 <br>
 
