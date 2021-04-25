@@ -25,7 +25,9 @@ Data Analytics
 Machine Learning
 
 ---
-# Data Science Projects:
+# Projects
+
+## Data Science Projects:
 
 ### [Store Sales Prediction](https://github.com/brunasenra/Store_Sales_Prediction-Rossmann)
 
@@ -43,7 +45,7 @@ Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
 
 <br>
 
-# Data Anaysis - Insight Projets:
+## Data Anaysis - Insight Projets:
 
 ### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
 
