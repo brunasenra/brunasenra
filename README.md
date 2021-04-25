@@ -25,9 +25,9 @@ Data Analytics
 Machine Learning
 
 ---
-# Projects
+# Data Science Projects:
 
-### [Rossmann Store Sales Prediction](https://github.com/brunasenra/Store_Sales_Prediction-Rossmann)
+### [Store Sales Prediction](https://github.com/brunasenra/Store_Sales_Prediction-Rossmann)
 
 Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. The delivered solution was a Telegram bot.
 
@@ -42,6 +42,8 @@ The diagnosis of Cadio Catch Diseases company need to create a tool that increas
 Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
 
 <br>
+
+# Data Anaysis - Insight Projets:
 
 ### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
 
