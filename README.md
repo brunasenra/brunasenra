@@ -31,7 +31,7 @@ Machine Learning
 
 ### [Store Sales Prediction](https://github.com/brunasenra/Store_Sales_Prediction-Rossmann)
 
-Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. The delivered solution was a Telegram bot.
+Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. The delivered solution was a Telegram bot. The user just needed to send the store number and the bot would answer the predicted total sales that the store would made by the end of the next six weeks.
 
 Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 
@@ -40,6 +40,8 @@ Project repo: https://github.com/brunasenra/Store_Sales_Prediction-Rossmann
 ### [Cardiovascular Disease Detection](https://github.com/brunasenra/Cardiovascular-Disease-Detection)
 
 The diagnosis of Cadio Catch Diseases company need to create a tool that increases the accuracy of the diagnosis and that this accuracy is stable for all diagnoses.
+In this project, I developed a Machine Learning model able to detect disease in early stages with 73.36% accuracy over 70k patience.
+The performance of this model would increase revenue of R$65 millions according to the company's business model described in the problem definition.
 
 Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
 
