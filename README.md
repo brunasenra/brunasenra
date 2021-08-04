@@ -48,7 +48,15 @@ Project repo: https://github.com/brunasenra/Cardiovascular-Disease-Detection
 <br>
 
 ## Data Anaysis - Insight Projets:
+    
+### [Drilling Performance](https://github.com/brunasenra/Drilling_performance)
 
+Determination of the slip connection performance during the drilling process during the 4 months of activity of a well.
+    
+Project repo: https://github.com/brunasenra/Drilling_performance
+
+<br>
+    
 ### [California Crime Compendium](https://github.com/brunasenra/California-Crime-Compendium)
 
 Through data analysis, the locations with the highest crime rate in the 4 groups are presented: agencies, universities, cities and countys.
