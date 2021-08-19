@@ -64,6 +64,14 @@ Through data analysis, the locations with the highest crime rate in the 4 groups
 Project repo: https://github.com/brunasenra/California-Crime-Compendium
 
 <br>
+    
+### [House Sales Company - IN PRODUCTION](https://github.com/brunasenra/House-Sales)
+
+Processing data for the purchase and sale of properties with the purpose of maximizing revenue by taking advantage of the best opportunities in the real estate market. At the end of the analysis, the project aims to understand the relationship between price and property attributes and present an interactive dashboard in Streamlit as an output.
+
+Project repo: https://github.com/brunasenra/House-Sales    
+    
+<br>    
 ---
 
 # Tools
